@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/albatross.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
@@ -21,7 +21,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://thealbatross279.github.io" # the base hostname & protocol for your site
+
+url: "http://dontshootthealbatross.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@thealbatross279'
