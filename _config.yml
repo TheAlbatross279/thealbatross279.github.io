@@ -7,11 +7,11 @@ gems:
 # Site settings
 title: "Don't Shoot The Albatross"
 description: > # this means to ignore newlines until "email:"
-   A story of a better life
+   A story of a better life.
 
-email: a-mail@mail.mail
+email: threnodyeve@gmail.com
 #blog logo
-logo: "/assets/images/albatross.jpeg"
+logo: "/assets/images/albatross_lit.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
@@ -46,9 +46,9 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/thealbatross279
-    desc:	Fork me on github
+  - icon:       instagram
+    url:        https://www.instagram.com/thealbatross279/
+    desc:       Follow me on Instagram
     share_url:
     share_title:
     share_link:
