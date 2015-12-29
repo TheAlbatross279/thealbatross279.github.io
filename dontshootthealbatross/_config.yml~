@@ -21,11 +21,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-<<<<<<< HEAD
-url: "http://thealbatross279.github.io" # the base hostname & protocol for your site
-=======
+
 url: "http://dontshootthealbatross.com" # the base hostname & protocol for your site
->>>>>>> 222f509d27de1ff4d2543acf0f979a9fbe4a8ff6
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@thealbatross279'
