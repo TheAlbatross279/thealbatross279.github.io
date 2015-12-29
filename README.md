@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mediator
 ========
 
@@ -76,3 +77,6 @@ Licensing
 Contact
 -------
 I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+=======
+# thealbatross279.github.io
+>>>>>>> 0fecd81e9fe11dfc8d1d3ae84a02bf87d95ab756

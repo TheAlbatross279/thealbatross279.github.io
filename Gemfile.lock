@@ -10,9 +10,12 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.3.8)
     blankslate (2.1.2.4)
+<<<<<<< HEAD
     bourbon (4.2.6)
       sass (~> 3.4)
       thor (~> 0.19)
+=======
+>>>>>>> 0fecd81e9fe11dfc8d1d3ae84a02bf87d95ab756
     classifier-reborn (2.0.4)
       fast-stemmer (~> 1.0)
     coffee-script (2.4.1)
@@ -127,7 +130,10 @@ GEM
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
     terminal-table (1.5.2)
+<<<<<<< HEAD
     thor (0.19.1)
+=======
+>>>>>>> 0fecd81e9fe11dfc8d1d3ae84a02bf87d95ab756
     thread_safe (0.3.5)
     toml (0.1.2)
       parslet (~> 1.5.0)
@@ -141,7 +147,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bourbon
+=======
+>>>>>>> 0fecd81e9fe11dfc8d1d3ae84a02bf87d95ab756
   github-pages
 
 BUNDLED WITH
