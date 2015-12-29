@@ -5,9 +5,9 @@ gems:
   - jemoji
   
 # Site settings
-title: "Don't Shoot The Albatross"
+title: "Mediator"
 description: > # this means to ignore newlines until "email:"
-   A story of a better life
+   A Jekyll theme - Medium inspired
 
 email: a-mail@mail.mail
 #blog logo
@@ -15,16 +15,16 @@ logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Kimberly Paterson Hunt'
-author: 'Kimberly Paterson Hunt'
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://dontshootthealbatross.com" # the base hostname & protocol for your site
+url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@thealbatross279'
+twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -32,7 +32,7 @@ twitter_handle: '@thealbatross279'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/thealbatross279
+    url:	https://twitter.com/dirkfabisch
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -46,7 +46,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/thealbatross279
+    url:	https://github.com/dirkfabisch
     desc:	Fork me on github
     share_url:
     share_title:
