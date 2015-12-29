@@ -6,7 +6,7 @@ permalink: /about/
 
 Kimberly Paterson Hunt is a programmer, writer, wife and fur-parent to Watson.
 
-![Watson the corgi](/assests/article-images/about/watson-pfieffer.jpeg)
+![Watson the corgi](/assets/article_images/about/watson-pfieffer.jpeg)
 
 2015 was a big year for me. It began with a fever, chills, and a impending sense of doom as my body reeled from a sickeness, then sinus infection and conjuntivitus. When the conjuntivitus and the sinus infection cleared, my opthamologist discovered that I also had [itiris](), a condtion where the iris (typically in one eye) becomes inflammed. The condition is usuall idyopathic and occurs only once in most patients -- I am not most patients. A course of topical steroids soon had the inflamtion subsiding, but not without starting my year off with 3 straight weeks of dibilitating sickness.
 
