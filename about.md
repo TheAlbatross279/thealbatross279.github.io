@@ -1,13 +1,17 @@
 ---
 layout: page
+permalink: /about/index.html
 title: About
 permalink: /about/
-image: /assets/article_images/about/jalama.jpg
+image:
+  feature: /images/about/jalama.jpg
 ---
 
 In short, I am programmer, writer, wife and fur-parent to Watson and someone interested in living better. In terms of topical interests, I'm interested in minimalism, zero waste, and decluttering. In terms of hobbies, I enjoy camping, travel, writing, reading, music and more. As to why I started this blog, read on; if you're here just to see Watson, then look no further.
 
-<center><img src="/assets/article_images/about/watson_nose.jpg" align="middle" width="75%"></center>
+<figure>
+	<a href="{{ site.url }}/images/about/watson_nose.jpg"><img src="{{ site.url }}/images/about/watson_nose.jpg"></a>
+</figure>
 
 2015 was a big year for me. It began with a fever, chills, and an impending sense of doom as my body reeled from a sickness, then sinus infection and conjunctivitis. When the conjuntivitus and the sinus infection cleared, my opthamologist discovered that I also had [iritis](http://www.mayoclinic.org/diseases-conditions/iritis/basics/definition/con-20034315), a condtion where the iris (typically in one eye) becomes inflammed. The condition is usually idiopathic and occurs only once in most patients -- However, I am not most patients. In some cases it can be an autoimmune response and often is related to a systemic problem such as an autoimmune disease. I don't know yet it that's what I have, but I can at least control the inflammation and avoid stress, which can cause recurrences. A course of topical steroids soon had the inflammation subsiding, but not without starting my year off with 3 straight weeks of debilitating sickness and my year off with weekly visits to the opthamologist and unanswered questions about my long-term health.
 
