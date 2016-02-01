@@ -9,7 +9,7 @@ tags:
   - minimalism
   - konmarie
 image: 
-  feature: "/images/2015-12-29-beginning/pfeiffer.jpg"
+  feature: "../images/2015-12-29-beginning/pfeiffer.jpg"
 comments: true
 mathjax: null
 featured: true
