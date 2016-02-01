@@ -5,10 +5,7 @@ description: My first attempts at Zero Waste shopping
 categories: "zero-waste"
 tags: 
   - "zero waste"
-image: 
-  feature: "website-speed.jpg"
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
+imagefeature: "../images/2016-1-10-zero-waste-trials/bulk-tea.jpg"
 comments: true
 mathjax: null
 featured: false
