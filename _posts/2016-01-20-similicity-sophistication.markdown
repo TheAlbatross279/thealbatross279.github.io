@@ -6,7 +6,7 @@ headline: "Simplicity is the Ultimate Sophistication"
 categories: minimalism
 tags: 
   - minimalism
-imagefeature: "/images/2016-01-20-simplicity-sophistication/books.jpg"
+imagefeature: "../images/2016-01-20-simplicity-sophistication/lake.jpg"
 comments: true
 mathjax: null
 featured: true
