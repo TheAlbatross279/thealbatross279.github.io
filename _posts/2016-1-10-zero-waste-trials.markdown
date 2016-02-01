@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zero Waste: Tribulations and Triumph"
-description: My first attempts at Zero Waste shopping
+description: "My first attempts at Zero Waste shopping"
 categories: "zero-waste"
 tags: 
   - "zero waste"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Simplicity is the Ultimate Sophistication
-description:"Resolving the tension between beautiful stuff and minimalism":
+description: "Resolving the tension between beautiful stuff and minimalism."
 headline: "Simplicity is the Ultimate Sophistication"
 categories: minimalism
 tags: 
