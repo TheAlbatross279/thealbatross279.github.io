@@ -2,7 +2,7 @@
 layout: post
 title:  Why I'm taking a Netflix Sabbatical
 description: "What would you rather be doing?"
-headline: "Why I'm taking a Netflix Sabbatical "
+headline: "Why I'm taking a Netflix Sabbatical"
 categories: 
 - minimalism
 - hobbies
