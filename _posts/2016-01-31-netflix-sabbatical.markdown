@@ -17,9 +17,9 @@ mathjax: null
 featured: false
 published: true
 ---
-The question, "What are you hobbies?" sounds fairly benign but to many, it is a fundamentally terrifying query -- especially to someone who has recently graduated from college. Hobbies? Free time? What have I been doing for the last seven years that I'd consider a hobby? I need time to think about this.
+The question, "What are your hobbies?" sounds fairly benign but to many, it is a fundamentally terrifying query -- especially to someone who has recently graduated from college. Hobbies? Free time? What have I been doing for the last seven years that I'd consider a hobby? I need time to think about this.
 
-Let's decide some criteria here: first, a hobby is something you have to set aside time for more than one a month, potentially every week or multiple times per week or even every day. Second, hobbies need to be something that you are willing to forgo other things for in favor of spending more time on your hobby. Often hobbies are skill-related, as in the more time you spend, there is a guaranteed minimum level of aptitude you will achieve with time and persistence.
+Let's decide some criteria here: first, a hobby is something you have to set aside time for more than once a month, potentially every week or multiple times per week or even every day. Second, hobbies need to be something that you are willing to forgo other things for in favor of spending more time on your hobby. Often hobbies are skill-related, as in the more time you spend, there is a guaranteed minimum level of aptitude you will achieve with time and persistence.
 
 Fundamentally, we can boil this definition down to time spent doing some activity that you would choose to do over something else.
 
@@ -34,7 +34,7 @@ I know, right?
 
 In grad school, I found great escapism in watching shows when I should either have been sleeping or working on projects. It was a way to disengage and relax while enjoying a story while coping with the constant stress of school -- and I had an active social life, so it wasn't like I was doing this all the time. However, when I graduated and started working full time and my husband had gone back to school three hours away, I found that coming home, turning on the TV and casting Netflix quickly became my weekday evening ritual. 
 
-It wasn't totally brainless about it either -- I was aware that I was spending all my time watching TV and at some point I determined that my Netflix habits were suddenly meeting the criteria of a hobby. I started answering the question, "what are you hobbies?" with a defeated answer of "watching tv shows."
+I wasn't totally brainless about it either -- I was aware that I was spending all my time watching TV and at some point I determined that my Netflix habits were suddenly meeting the criteria of a hobby. I started answering the question, "what are you hobbies?" with a defeated answer of "watching tv shows."
 
 As someone with two college degrees, this was unsettling and mildly shameful. Instead of carving out time for things that challenged me, I defaulted to the easy route of letting that "next episode starts in 20 seconds" feature take the wheel.
 
@@ -42,8 +42,7 @@ While there is nothing wrong with enjoying shows (I still do), it's definitely n
 
 But if I was unhappy, why was I doing this to myself? I realized that watching Netflix was infinitely easier than writing or reading, and so it was always the preferred choice after a long day at work. I had no ability to moderate my watching either, but the prospect of letting go of other things to support my Netflix habit was so disappointing, I decided to do something I never thought I would do: cancel my Netflix subscription. At least for a while until I learned some self-control.
 
-I'm about 3 months into my Netflix sabbatical, and there have been many many times I miss the seemingly unlimited streaming content of Netflix and HBO Now. But there have also been many improvements: I've already read 3 books and am partway through another 3, which is a huge improvement. I've restarted this blog and made several posts, plus written most of a short story since then. I've cleaned and declut
-tered most of my apartment, made more time for Watson and Chris.
+I'm about 3 months into my Netflix sabbatical, and there have been many many times I miss the seemingly unlimited streaming content of Netflix and HBO Now. But there have also been many improvements: I've already read 3 books and am partway through another 3, which is a huge improvement. I've restarted this blog and made several posts, plus written most of a short story since then. I've cleaned and decluttered most of my apartment, made more time for Watson and Chris.
 
 <figure>
 	<a href="{{ site.url }}/images/2016-01-31-netflix-sabbatical/family.jpg"><img src="{{ site.url }}/images/2016-01-31-netflix-sabbatical/family.jpg"></a>
