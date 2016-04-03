@@ -62,6 +62,7 @@ Description: Awesome dude, awesome life
                     </div>
         </div>
                     <footer class="post-footer entry-meta">
+		        {% include subscribe.html %}
                         {% if site.share %}{% include share.html %}{% endif %}
                         {% include signoff.html %} 
                         {% if site.disqus_shortname and page.comments == true %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
@@ -69,6 +70,7 @@ Description: Awesome dude, awesome life
             </article>
     </div>
 </div>
+
 {% include footer.html %}
 
     

@@ -1,0 +1,18 @@
+<div class="post-subscrive text-center">
+    <p class="light small">
+        Subscribe to be notified when new content is posted:
+    </p>
+    <ul class="subscribe">
+      <form action="https://getsimpleform.com/messages?form_api_token=7b34e5960e18ed1658c2668db5acbebf" method="post">
+	<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+	<input type='hidden' name='redirect_to' value="{{ site.url }}/thank-you.html" />
+	<!-- all your input fields here.... -->
+	<input type='email' name='email' placeholder=" Your email" id="email"/>
+	<input type='submit' value='Subscribe' id="submit"/>
+      </form><br>
+      <p class="light small">
+        I take your privacy seriously, and will not share this email or send you spam.
+	<br>This is purely so I can notify you when new posts are added!
+      </p> 
+    </ul>
+</div>
