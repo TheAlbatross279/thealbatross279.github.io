@@ -63,6 +63,7 @@ I certainly haven't reduced all stress, but I feel I've made a positive step in 
 
 How do you reduce your stress? Share your experiences in the comments below.
 
+
 <figure>
 	<a href="{{ site.url }}/images/2016-05-11-stress/stress-reduce.jpg"><img src="{{ site.url }}/images/2016-05-11-stress/stress-reduce.jpg"></a>
 </figure>
