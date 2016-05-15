@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  3 Ways I Reduced Stress without Changing my Circumstances
-description: "Helping to Prevent Stress in a Busy World"
+description: "Helping to Prevent Stress Overload in a Busy World"
 headline: "3 Ways I Reduced Stress without Changing my Circumstances"
 categories:  stress
 tags: 
