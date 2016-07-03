@@ -34,6 +34,7 @@ It's easy to write off your anxious feelings, to blame the media or circumstance
 When thinking about my own perfectionism, I did some soul searching. I knew that my perfectionism was motivated by something -- and I also knew that it was limiting me. I spent so much time worrying about what others thought of me, how I was performing, if I was performing up to par with the talented people around me, I stunted my own growth and crippled my confidence. I needed to dig out the root of it and discover what it was that prevented me from being the confident person I wanted to be. It came down to a few things:
 
 **Fear of Rejection**
+
 Events of my childhood lead me to have extreme anxiety about being rejected by those I cared about. I blamed myself when others didn't show me affection, when friends moved on to spend time with others, when someone said something less than kind to me. I thought, if they liked me or if I was more likable, maybe they would have been nicer to me. 
 
 This thought pattern meant I blamed myself for being imperfect, but it also drove me to seek out perfection so I would be liked. If I was cool, if I was nice, pretty, funny, etc, I would be accepted.
@@ -41,6 +42,7 @@ This thought pattern meant I blamed myself for being imperfect, but it also drov
 In the undertow of this feeling came the desire to achieve, to be successful, to be respected. And if I couldn't achieve, I couldn't be what I thought I wanted to be, then I would give up. I would doubt myself and limit myself, which was the source of a lot of my [imposter syndrome](http://dontshootthealbatross.com/writing/impostor-syndrome).
 
 **Hyper-responsibility**
+
 Because I felt responsible for other's opinions of me, I became hyper-responsible for my relationships. If my friends were feeling unhappy, I had to fix them. I had to fix myself if needed so they would like me, and I would maintain the attachment.
 
 This lead me to feel responsible for things I couldn't change or control. I was responsible for fixing my relationships, fixing people, fixing myself, and striving to make perfection out of imperfection. In my mind, perfection meant that I was secure.
@@ -51,7 +53,7 @@ Although I certainly haven't broken the patterns entirely, my self-awareness lea
 
 If you struggle with perfectionism, here are some steps you can take that helped me deal with my own:
 
-1) **Recognize the comparisons you make**
+### 1) **Recognize the comparisons you make**
 Theodore Roosevelt (and also my step-mom) said that "comparison is the thief of joy" and of course, we know we make ourselves miserable, yet we still compare ourselves to everyone around us and we think we deserve the criticism. 
 
 > There's no objective measure that is truly sufficient to account for the variability in life. 
@@ -62,7 +64,7 @@ My stepmom also always reminded us that there will always be someone better than
 
 It took me many years to recognize that success is not a zero-sum game. If someone is doing better than you, that doesn't necessarily mean they are taking away from your success. Even if they get the position you don't get, that doesn't mean you can't be successful. It's not *personal*, it's not about you being less than them, it's their success and it's distinct from you. Conflating someone else's success with your lack of success is a dangerous path to walk, and leads to unhappiness and resentment.
 
-2) **Listen to your self-doubt, then correct it**
+### 2) **Listen to your self-doubt, then correct it**
 We tell ourselves quiet words of self-doubt and self-deprecation consistently throughout the day. It can lead us to feel like [imposters](http://dontshootthealbatross.com/writing/impostor-syndrome), and feel like we can't be as successful or as liked as others because we don't belong.
 
 The first step to righting your self-worth is to notice when you tell yourself you are incapable. Note that you aren't flawed or incapable, you just tell yourself you are every day. Question why you are saying this and recognize that your messages are based on fear and insecurity. Question this fear; ask yourself what am I afraid of? Why am I afraid?
@@ -71,7 +73,7 @@ If you find yourself saying you aren't good, investigate the feeling and reevalu
 
 > Too many of us fight ourselves every day. Imagine what you could do if you could just get out of your own way.
 
-3) **Find the center of your self-esteem**
+### 3) **Find the center of your self-esteem**
 Too many of us fight ourselves every day. Imagine what you could do if you could just get out of your own way. The best gift you can give yourself is to root out the cause of your hurting self-esteem. We can all look at ourselves and point out our flaws, but we aren't so good at figuring out why we think they are flaws. If you can begin to answer the question, "why is it not okay to be imperfect?" then you are on track toward feeling contentment and confidence.
 
 Breaking down the drive for perfection is tricky, and this post certainly won't replace the self-inspection it takes to dig into the motivations that move you toward perfectionism, and ultimately toward self-loathing and self-limitation, but I hope it's a good place to start.
