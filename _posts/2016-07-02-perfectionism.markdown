@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "We're not all \#Flawless: Fight Crippling Perfectionism with Introspection"
+title:  "We're not all #Flawless: Fight Crippling Perfectionism with Introspection"
 description: "Strive to be Flawed and Content"
-headline: "We're not all \#Flawless: Fight Crippling Perfectionism with Introspection"
+headline: "We're not all #Flawless: Fight Crippling Perfectionism with Introspection"
 categories:  self-improvement
 tags: 
   - self-improvement
