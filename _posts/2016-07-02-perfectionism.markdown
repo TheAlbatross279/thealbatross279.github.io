@@ -10,7 +10,7 @@ imagefeature: ../images/cracks.jpg
 comments: true
 mathjax: null
 featured: true
-published: false
+published: true
 ---
 
 There are plenty of platitudes about human imperfection -- "nobody's perfect," and "we all make mistakes" -- and it would be nice if we could actually believe them. It's one of the things that everyone universally agrees is true, but when it comes to truly accepting that everyone is flawed, that we individually are flawed, the thought doesn't breach the thick wall of our egos' self-defense. The truth is that being flawed just isn't okay.
@@ -84,3 +84,7 @@ Too many of us fight ourselves every day. Imagine what you could do if you could
 Breaking down the drive for perfection is tricky, and this post certainly won't replace the self-inspection it takes to dig into the motivations that move you toward perfectionism, and ultimately toward self-loathing and self-limitation, but I hope it's a good place to start.
 
 Share you experience below in the comments and [subscribe](http://dontshootthealbatross.com/subscribe) to be notified when new posts are added.
+
+<figure>
+	<a href="{{ site.url }}/images/flawless.jpg"><img src="{{ site.url }}/images/flawless.jpg"></a>
+</figure>
