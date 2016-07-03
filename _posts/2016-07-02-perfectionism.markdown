@@ -55,7 +55,7 @@ Although I certainly haven't broken the patterns entirely, my self-awareness lea
 
 If you struggle with perfectionism, here are some steps you can take that helped me deal with my own:
 
-**Recognize the comparisons you make**
+###1) **Recognize the comparisons you make**
 
 Theodore Roosevelt (and also my step-mom) said that "comparison is the thief of joy" and of course, we know we make ourselves miserable, yet we still compare ourselves to everyone around us and we think we deserve the criticism. 
 
@@ -67,7 +67,7 @@ My stepmom also always reminded us that there will always be someone better than
 
 It took me many years to recognize that success is not a zero-sum game. If someone is doing better than you, that doesn't necessarily mean they are taking away from your success. Even if they get the position you don't get, that doesn't mean you can't be successful. It's not *personal*, it's not about you being less than them, it's their success and it's distinct from you. Conflating someone else's success with your lack of success is a dangerous path to walk, and leads to unhappiness and resentment.
 
-2) **Listen to your self-doubt, then correct it**
+###2) **Listen to your self-doubt, then correct it**
 
 We tell ourselves quiet words of self-doubt and self-deprecation consistently throughout the day. It can lead us to feel like [imposters](http://dontshootthealbatross.com/writing/impostor-syndrome), and feel like we can't be as successful or as liked as others because we don't belong.
 
@@ -77,7 +77,7 @@ If you find yourself saying you aren't good, investigate the feeling and reevalu
 
 > Too many of us fight ourselves every day. Imagine what you could do if you could just get out of your own way.
 
-3) **Find the center of your self-esteem**
+###3) **Find the center of your self-esteem**
 
 Too many of us fight ourselves every day. Imagine what you could do if you could just get out of your own way. The best gift you can give yourself is to root out the cause of your hurting self-esteem. We can all look at ourselves and point out our flaws, but we aren't so good at figuring out why we think they are flaws. If you can begin to answer the question, "why is it not okay to be imperfect?" then you are on track toward feeling contentment and confidence.
 
