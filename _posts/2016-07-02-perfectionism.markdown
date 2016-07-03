@@ -10,7 +10,7 @@ imagefeature: ../images/cracks.jpg
 comments: true
 mathjax: null
 featured: true
-published: true
+published: false
 ---
 
 There are plenty of platitudes about human imperfection -- "nobody's perfect," and "we all make mistakes" -- and it would be nice if we could actually believe them. It's one of the things that everyone universally agrees is true, but when it comes to truly accepting that everyone is flawed, that we individually are flawed, the thought doesn't breach the thick wall of our egos' self-defense. The truth is that being flawed just isn't okay.
