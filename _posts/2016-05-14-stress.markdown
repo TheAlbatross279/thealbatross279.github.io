@@ -9,7 +9,7 @@ tags:
 imagefeature: ../images/2016-05-11-stress/trees.jpg
 comments: true
 mathjax: null
-featured: true
+featured: false
 published: true
 ---
 Stress is ubiquitous and preventing it seems impossible, for me especially. I work in Silicon Valley at one of the biggest tech companies in the world, in an environment where I'm constantly ignorant about systems and processes, and in a town where I don't have many friends and am far away from family. On top of that, I live alone most days of the week as the primary parent to a rowdy puppy. Stress affects me, mentally and physically and curbing it is challenging.

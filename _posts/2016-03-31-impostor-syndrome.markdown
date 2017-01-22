@@ -9,7 +9,7 @@ tags:
 imagefeature: ../images/2016-03-31-impostor-syndrome/tracks.jpg
 comments: true
 mathjax: null
-featured: true
+featured: false
 published: true
 ---
 When I was in elementary school, I had an identity crisis. I sat down with my stepmom and told her I didn't know who I was and what I liked. It boiled down to this: I didn't know whether I was a Scooby-Doo-person or Pokemon-person. To me, the question was fundamental -- I needed a brand, something that identified me to people of like-mind, that you could look at me and go "That's Kim, she likes Scooby-Doo," and that would be a sufficient summarization of my life.

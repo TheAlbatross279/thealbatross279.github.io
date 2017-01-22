@@ -9,7 +9,7 @@ tags:
 imagefeature: "../images/2016-01-20-simplicity-sophistication/lake.jpg"
 comments: true
 mathjax: null
-featured: true
+featured: false
 published: true
 ---
 

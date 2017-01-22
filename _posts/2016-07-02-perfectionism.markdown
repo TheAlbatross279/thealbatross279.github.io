@@ -9,7 +9,7 @@ tags:
 imagefeature: ../images/cracks.jpg
 comments: true
 mathjax: null
-featured: true
+featured: false
 published: true
 ---
 
